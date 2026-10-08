@@ -1,0 +1,8 @@
+{
+  "name": "PRO CMC Tracking ",
+  "description": "ระบบติดตามผลการดำเนินโครงการ โรงเรียนเชียงใหม่คริสเตียน",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
